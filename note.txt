@@ -1,0 +1,18 @@
+những phần thường gặp trên giao diện website
+1.Header ( đầu trang)
+2.Navigation (điều hướng)
+3.Breadcrum (Map chỉ trang)
+4.sidebar(Thanh chứa các menu đặt bên trái hay bên phải)
+5.slider(media thưởng là ảnh trượt trượt)
+6.content(nội dung)
+7.footer(chân trang)
+1.phân tích web band -> Ok
+    1.Header
+    2.slider
+    3.content
+        1.About
+        2.Tour
+        3.Contact
+        4.Image
+        5.footer
+    4.footer
